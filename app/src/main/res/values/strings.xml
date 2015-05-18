@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Limkokwing Timetable</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="signUp">Sign Up</string>
+    <string name="or">Or</string>
+    <string name="submit">Submit</string>
+    <string name="ourteam">Our Team</string>
+    <string name="about">About</string>
+    <string name="email">E-mail</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="pleaseLogIn">Please fill in your Username and Password fields</string>
+    <string name="abd">Abdul Rahman AlKhatib</string>
+    <string name="adnan">Mhd Adnan Mostafa</string>
+    <string name="chingiz">Chingiz</string>
+    <string name="addModule">Add Module</string>
+    <string name="welcometoLim">Welcome to LimKokWing Timetable</string>
+    <string name="addmodulehere">Type the Module name here</string>
+    <string name="chooseTime">Choose time</string>
+    <string name="save">Save</string>
+
+</resources>
